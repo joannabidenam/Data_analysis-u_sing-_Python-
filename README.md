@@ -1,1 +1,1 @@
-# Machine-learning-linear-and-logistics-projects-
+# My Python projects 
